@@ -1,6 +1,6 @@
 // Write your name here
 
-// 2. Factorial using do-while loop
+// 3. Factorial using do-while loop
 
 import java.util.Scanner;
 
