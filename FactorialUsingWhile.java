@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class FactorialUsingWhile {
     public static long calculateFactorial(int n) {
+        // Write your code here
 
     }
 
