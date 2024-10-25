@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class SumOfDigits {
     public static int calculateDigitSum(int n) {
+        // Write your code here
 
     }
 
