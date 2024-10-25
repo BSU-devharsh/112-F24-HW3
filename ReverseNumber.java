@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class ReverseNumber {
     public static int reverseNumber(int n) {
+        // Write your code here
 
     }
 
